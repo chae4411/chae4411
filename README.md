@@ -11,7 +11,7 @@ I enjoy exploring technical problems through hands-on projects, from embedded sy
 
 ### Interests
 
-'Computer Vision' · 'Artificial Intelligence' · 'Machine Learning' · 'Software Engineering' · 'Embedded Systems'
+Computer Vision · Artificial Intelligence · Machine Learning · Software Engineering · Embedded Systems
 
 ### Selected Work
 
