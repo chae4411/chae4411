@@ -32,7 +32,7 @@ Worked on object detection using YOLOv5, data visualization with Grafana, and Py
 
 ### Technical Background
 
-**Languages:** Python, Java, C, JavaScript
+**Languages:** Python, Java, C, JavaScript, Ruby
 
 **Frameworks & Tools:** React, Node.js, Git, MySQL, OpenCV, Ultralytics YOLO
 
